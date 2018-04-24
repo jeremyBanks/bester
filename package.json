@@ -1,10 +1,8 @@
 {
   "name": "bester",
-  "version": "0.0.3",
-  "description": "bleeding edge ouch micro framework",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "_@jeremy.ca",
-  "license": "ISC"
+  "repository": "jeremyBanks/bester",
+  "license": "MIT",
+  "version": "0.0.4",
+  "description": "bleeding edge ouch micro framework"
 }
